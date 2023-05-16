@@ -5,14 +5,35 @@
 <br/>
 
 <div 
-     id="badges"
-     align="center"
+  id="badges"
+  align="center"
 >
-  <a href="https://linkedin.com/in/jorgenlt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a 
+    href="https://linkedin.com/in/jorgenlt" 
+    target="_blank"
+  >
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn Badge"
+    />
   </a>
-  <a href="[https://linkedin.com/in/jorgenlt](https://codepen.io/dogonscooter)" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  <a 
+    href="https://codepen.io/dogonscooter"
+    target="_blank"
+  >
+    <img 
+      src="https://img.shields.io/badge/Codepen-black?logo=codepen&logoColor=white&style=for-the-badge" 
+      alt="LinkedIn Badge"
+    />
+  </a>
+  <a 
+    href="https://jorgenlt.me"
+    target="_blank"
+  >
+    <img 
+      src="https://img.shields.io/badge/Portfolio-darkcyan?logo=react&logoColor=white&style=for-the-badge" 
+      alt="LinkedIn Badge"
+    />
   </a>
 </div>
 <div align="center">
@@ -57,6 +78,13 @@ I am a Full Stack Developer from Norway.
     height="80"
   />
   <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" 
+    title="Next.js" 
+    alt="Next.js" 
+    width="80" 
+    height="80"
+  />
+  <img 
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg" 
     title="Rails" 
     alt="Rails" 
@@ -95,7 +123,7 @@ I am a Full Stack Developer from Norway.
 
 ---
 
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgenlt&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgenlt&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenlt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
