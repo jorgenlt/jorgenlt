@@ -1,9 +1,7 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgenlt&theme=dark&background=000000)](https://git.io/streak-stats)
-
 <div align="center">
   <img 
     src="http://github-readme-streak-stats.herokuapp.com?user=jorgenlt&theme=dark&background=000000"
-    height="300px"
+    height="100px"
   />
 </div>
 
