@@ -1,7 +1,11 @@
 <div align="center">
   <img 
     src="http://github-readme-streak-stats.herokuapp.com?user=jorgenlt&theme=dark&background=000000"
-    height="200px"
+    height="150px"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenlt&layout=compact&theme=vision-friendly-dark"
+    height="150px"
   />
 </div>
 
@@ -147,6 +151,4 @@
 
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgenlt&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenlt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
