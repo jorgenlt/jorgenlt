@@ -1,7 +1,7 @@
 <div align="center">
   <img 
     src="http://github-readme-streak-stats.herokuapp.com?user=jorgenlt&theme=dark&background=000000"
-    height="100px"
+    height="200px"
   />
 </div>
 
