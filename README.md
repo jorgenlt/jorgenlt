@@ -54,6 +54,78 @@
 ### Welcome to my GitHub profile.</p>
   
 <br/>
+
+## Languages and Tools
+
+<br/>
+
+<div>
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" 
+    title="JavaScript" 
+    alt="JavaScript" 
+    width="60" 
+    height="60"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg"
+    title="Ruby"
+    alt="Ruby" 
+    width="60" 
+    height="60"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" 
+    title="React" 
+    alt="React" 
+    width="60" 
+    height="60"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" 
+    title="Next.js" 
+    alt="Next.js" 
+    width="60" 
+    height="60"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg" 
+    title="Rails" 
+    alt="Rails" 
+    width="60" 
+    height="60"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" 
+    title="HTML" 
+    alt="HTML" 
+    width="60" 
+    height="60"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" 
+    title="CSS" 
+    alt="CSS" 
+    width="60" 
+    height="60"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" 
+    title="PostgreSQL" 
+    alt="PostgreSQL" 
+    width="60" 
+    height="60"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" 
+    title="Git" 
+    alt="Git" 
+    width="60" 
+    height="60"
+  />
+</div>
+
+<br/>
   
 ## About Me 👀
 
@@ -75,77 +147,4 @@
 <br/>
 
 <br/>
-
-## Languages, Tools and Stats
-
-<br/>
-
-<div>
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" 
-    title="JavaScript" 
-    alt="JavaScript" 
-    width="80" 
-    height="80"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg"
-    title="Ruby"
-    alt="Ruby" 
-    width="80" 
-    height="80"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" 
-    title="React" 
-    alt="React" 
-    width="80" 
-    height="80"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" 
-    title="Next.js" 
-    alt="Next.js" 
-    width="80" 
-    height="80"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg" 
-    title="Rails" 
-    alt="Rails" 
-    width="80" 
-    height="80"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" 
-    title="HTML" 
-    alt="HTML" 
-    width="80" 
-    height="80"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" 
-    title="CSS" 
-    alt="CSS" 
-    width="80" 
-    height="80"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" 
-    title="PostgreSQL" 
-    alt="PostgreSQL" 
-    width="80" 
-    height="80"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" 
-    title="Git" 
-    alt="Git" 
-    width="80" 
-    height="80"
-  />
-</div>
-
-<br/>
-
 
