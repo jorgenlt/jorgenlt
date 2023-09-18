@@ -106,16 +106,30 @@
     height="60"
   />
   <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" 
-    title="Next.js" 
-    alt="Next.js" 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg" 
+    title="Rails" 
+    alt="Rails" 
     width="60" 
     height="60"
   />
   <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg" 
-    title="Rails" 
-    alt="Rails" 
+    src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" 
+    title="Node.js" 
+    alt="Node.js" 
+    width="60" 
+    height="60"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-plain-wordmark.svg" 
+    title="MongoDB" 
+    alt="MongoDB" 
+    width="60" 
+    height="60"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" 
+    title="PostgreSQL" 
+    alt="PostgreSQL" 
     width="60" 
     height="60"
   />
@@ -130,13 +144,6 @@
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" 
     title="CSS" 
     alt="CSS" 
-    width="60" 
-    height="60"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" 
-    title="PostgreSQL" 
-    alt="PostgreSQL" 
     width="60" 
     height="60"
   />
