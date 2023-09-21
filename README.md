@@ -34,7 +34,7 @@
     />
   </a>
   <a 
-    href="https://jorgenlt.me"
+    href="https://jorgenlt.no"
     target="_blank"
   >
     <img 
