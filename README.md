@@ -25,15 +25,6 @@
     />
   </a>
   <a 
-    href="https://codepen.io/dogonscooter"
-    target="_blank"
-  >
-    <img 
-      src="https://img.shields.io/badge/Codepen-black?logo=codepen&logoColor=white&style=for-the-badge" 
-      alt="LinkedIn Badge"
-    />
-  </a>
-  <a 
     href="https://jorgenlt.no"
     target="_blank"
   >
@@ -77,6 +68,13 @@
 <br/>
 
 <div>
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" 
+    title="Linux" 
+    alt="Linux" 
+    width="60" 
+    height="60"
+  />
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" 
     title="JavaScript" 
@@ -151,13 +149,6 @@
     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" 
     title="Git" 
     alt="Git" 
-    width="60" 
-    height="60"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" 
-    title="Linux" 
-    alt="Linux" 
     width="60" 
     height="60"
   />
