@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats-murex-five.vercel.app?user=jorgenlt&theme=dark&background=000000"
+    src="https://github-readme-streak-stats-jorgenlts-projects.vercel.app?user=jorgenlt&theme=dark&background=000000"
     height="150px"
   />
   <img 
